@@ -1,7 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=2,2,&height=140&text=정은's%20Github%20👩🏻‍💻&fontSize=50)
-
-### 안녕하세요! 발전하는 개발자 박정은입니다 :-)
-
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=2,2,&height=140&text=👩🏻‍💻%20정은's%20Github%20-nl-&desc=안녕하세요!%20발전하는%20개발자%20박정은입니다%20💫&animation=fadeIn&fontSize=40&fontAlignY=30)
 
 
 
