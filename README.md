@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pje8845)](https://solved.ac/pje8845)
+
+![snake gif](https://github.com/Jungeun-Park-kr/Jungeun-Park-kr/blob/output/github-contribution-grid-snake.svg)
