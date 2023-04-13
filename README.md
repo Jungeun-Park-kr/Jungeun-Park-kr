@@ -3,22 +3,17 @@
 
 
 
-<!--
-**Jungeun-Park-kr/Jungeun-Park-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Jungeun-Park-kr"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJungeun-Park-kr&count_bg=%23FFB8B8&title_bg=%23FF6565&icon=apachespark.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>
+    🛠 기술스택 📚
+  </h3>
+</div>
 
 
+  
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pje8845)](https://solved.ac/pje8845)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jungeun-Park-kr&show_icons=true&theme=aura_dark)
 
 
