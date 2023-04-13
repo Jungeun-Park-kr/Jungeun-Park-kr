@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=0,2,2,5,30&height=140&text=정은's%20Github%20👩🏻‍💻&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&customColorList=2,2,&height=140&text=정은's%20Github%20👩🏻‍💻&fontSize=50)
 
 ### 안녕하세요! 발전하는 개발자 박정은입니다 :-)
 
